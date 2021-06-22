@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vikasportfolio/static/css/main.3e86976a.chunk.css",
+    "main.js": "/vikasportfolio/static/js/main.a46225b8.chunk.js",
+    "main.js.map": "/vikasportfolio/static/js/main.a46225b8.chunk.js.map",
+    "runtime-main.js": "/vikasportfolio/static/js/runtime-main.b9ee781e.js",
+    "runtime-main.js.map": "/vikasportfolio/static/js/runtime-main.b9ee781e.js.map",
+    "static/js/2.01de02cf.chunk.js": "/vikasportfolio/static/js/2.01de02cf.chunk.js",
+    "static/js/2.01de02cf.chunk.js.map": "/vikasportfolio/static/js/2.01de02cf.chunk.js.map",
+    "index.html": "/vikasportfolio/index.html",
+    "static/css/main.3e86976a.chunk.css.map": "/vikasportfolio/static/css/main.3e86976a.chunk.css.map",
+    "static/js/2.01de02cf.chunk.js.LICENSE.txt": "/vikasportfolio/static/js/2.01de02cf.chunk.js.LICENSE.txt",
+    "static/media/covidimage.3e75db6d.jpg": "/vikasportfolio/static/media/covidimage.3e75db6d.jpg",
+    "static/media/vikas.8414f803.png": "/vikasportfolio/static/media/vikas.8414f803.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9ee781e.js",
+    "static/js/2.01de02cf.chunk.js",
+    "static/css/main.3e86976a.chunk.css",
+    "static/js/main.a46225b8.chunk.js"
+  ]
+}
