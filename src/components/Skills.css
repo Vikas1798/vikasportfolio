@@ -1,0 +1,44 @@
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  font-size: 30px;
+}
+.flex-item-left {
+  padding: 80px;
+  flex: 50%;
+}
+.flex-item-left h2 {
+  color: #ca6f1e;
+}
+
+.right-page-title h4 {
+  font-size: 20px;
+}
+.right-page-title h1 {
+  font-size: 40px;
+  color: #ca6f1e;
+}
+h6 {
+  color: white;
+}
+p {
+  color: #616a6b;
+}
+
+.flex-item-right {
+  border-radius: 20px;
+  padding: 80px;
+  flex: 50%;
+  text-align: center;
+}
+.contact-link {
+  list-style: none;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+@media (max-width: 600px) {
+  .flex-container {
+    flex-direction: column;
+  }
+}

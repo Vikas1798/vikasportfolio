@@ -1,0 +1,33 @@
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 30px;
+  text-align: center;
+}
+
+.main-left {
+  padding: 10px;
+  flex: 50%;
+}
+.main-left p {
+  color: #abb2b9;
+}
+.covidimage {
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.main-right {
+  padding: 10px;
+  flex: 50%;
+}
+.main-right p {
+  color: #abb2b9;
+}
+
+@media (max-width: 800px) {
+  .main-right,
+  .main-left {
+    flex: 100%;
+  }
+}
